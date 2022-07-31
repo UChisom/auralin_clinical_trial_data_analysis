@@ -14,10 +14,10 @@ Auralin Clinical Trial Data Analysis
 The dataset has three tables containing the resuslts for a clinical trial on a new drug. It was curated by Udacity staff along side medical professionals so it mimics the originality and dirtiness common with medial data. 700 patients passed through the trial phase and their results are split in three tables namely the `patients` table containing patient information, the `treatments` table comparing results of each drug administered during the trial phase, and the `adverse reactions` table containing observed side effects from each drug on affected patients.
 
 ### Project Description <a id='topic2'></a>
-This analysis was carried out using the Python language in Jupyter notebook. It serves as an easy guide through assessing, cleaning and analyzing data. The data is both unitdy (structural issues) and dirty(quality issues), but this will be a simple guide to clean up the data for a brief analsis.
+This analysis was carried out using the Python language in Jupyter notebook. It serves as an easy guide through assessing, cleaning and analyzing data. The data is both untidy (structural issues) and dirty(quality issues), but this will be a simple guide to clean up the data for a brief analsis.
 The Auralin clinical trial dataset contains medical data from a phase clinical trial on a new drug Auralin. Auralin is planned to be a replacement for the currently injected drug for diabetic patients. Diabetic patients are presently administered a drug called Novodra through a syringe multiple times a day. This is not only uncomfortable and stressful, but also has some physical side effects. Some of its side effects include itching around the region and sometimes swelling.
 
-On the other hand, Auralin is tagetted to be administered orally and prevent the hassle and discomfort of taking Novodra. To deploy the grug however, it must successfully pass the clinical trial stage. This dataset contains the phase II clinical trial results.
+On the other hand, Auralin is targetted to be administered orally and prevent the hassle and discomfort of taking Novodra. To deploy the grug however, it must successfully pass the clinical trial stage. This dataset contains the phase II clinical trial results.
 
 
 
